@@ -8,4 +8,4 @@
       - SHORT
       - LONG
 ## 3주차 과제
-<img width="300"height"400" src=./png/
+<img width="300"height"400" src=./png/네이버.png"></img>
