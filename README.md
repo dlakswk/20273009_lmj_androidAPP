@@ -7,3 +7,5 @@
     - Toast 알림출력해보기
       - SHORT
       - LONG
+## 3주차 과제
+<img width="300"height"400" src=./png/
