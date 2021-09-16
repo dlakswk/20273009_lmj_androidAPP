@@ -8,5 +8,5 @@
       - SHORT
       - LONG
 ## 3주차 과제
-<img src="/naver.png" width="300" height="300">
-<img src="/전화걸기.png" width="300" height="300">
+<img width="300" height="400" src="./png/naver.png"></img>
+<img width="300" height="400" src="./png/전화걸기.png"></img>
