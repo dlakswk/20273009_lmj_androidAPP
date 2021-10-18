@@ -19,3 +19,6 @@
 <img width="300" height="400" src="./png/이미지바꾸기6주차_1.JPG"></img>
 <img width="300" height="400" src="./png/이미지바꾸기6주차_2.JPG"></img>
  - 높이 넓이 포함
+
+## 7주차 과제
+<img width="300" height="400" src="./png/캡스톤 7주차_20273009.JPG"></img>
