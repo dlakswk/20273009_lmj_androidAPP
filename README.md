@@ -24,4 +24,4 @@
 <img width="300" height="400" src="./png/캡스톤 7주차_20273009.JPG"></img>
 
 ## 9주차 과제
-<img width="300" height="400" src="./png/캡스톤9주차_20273009.JPG"></img>
+<img width="300" height="400" src="./png/캡스톤9주차_20273009 이민지.JPG"></img>
