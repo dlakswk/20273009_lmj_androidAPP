@@ -29,3 +29,6 @@
 ## 10주차 과제
 <img width="300" height="400" src="./png/캡스톤 10주차_돌아가기(1).JPG"></img>
 <img width="300" height="400" src="./png/캡스톤 10주차_돌아가기(2).JPG"></img>
+
+## 11주차 과제
+<img width="300" height="400" src="./png/캡스톤 11주차_이민지.JPG"></img>
