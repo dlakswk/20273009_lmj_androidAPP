@@ -32,3 +32,6 @@
 
 ## 11주차 과제
 <img width="300" height="400" src="./png/캡스톤11주차_20273009 이민지.JPG"></img>
+
+## 12주차 과제
+<img width="300" height="400" src="./png/캡스톤12주차_20273009 이민지.JPG"></img>
